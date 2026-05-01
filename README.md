@@ -1,6 +1,6 @@
 # 🚀 System Resource Monitor (Project 2)
 
-![System Monitor](images/Banner.png)
+![System Monitor](images/Banner2.png)
 
 > 🧠 Observe • Analyze • Monitor  
 > A Python-based system that reads **live Linux kernel data** from `/proc` and converts it into real-time CPU and Memory insights.
