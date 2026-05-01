@@ -1,5 +1,3 @@
-Got it. Single block. No extra text. Exactly like you asked.
-
 ````markdown
 # 🚀 System Resource Monitor (Project 2)
 
