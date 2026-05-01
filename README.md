@@ -1,6 +1,6 @@
 # 🚀 System Resource Monitor (Project 2)
 
-![System Monitor](assets/project2.png)
+![System Monitor](images/Banner.png)
 
 > 🧠 Observe • Analyze • Monitor  
 > A Python-based system that reads **live Linux kernel data** from `/proc` and converts it into real-time CPU and Memory insights.
@@ -21,7 +21,7 @@ This project simulates a **real-world system monitoring pipeline**, evolving acr
 
 ## 🗂️ Project Structure
 
-![Project Files](assets/files.png)
+![Project Files](images/files.png)
 
 ---
 
@@ -43,7 +43,7 @@ Linux Kernel (/proc)
 
 # 🧪 Version 1 — Raw System Data Access
 
-![V1 Output](assets/v1.png)
+![V1 Output](images/v1.png)
 
 ### ⚙️ Features
 
@@ -105,7 +105,7 @@ Cached: 2488812 kB
 
 # ⚙️ Version 2 — System Usage Calculation
 
-![V2 Output](assets/v2.png)
+![V2 Output](images/v2.webm)
 
 ### ⚙️ Features
 
@@ -162,7 +162,7 @@ Memory: 41.78%
 
 # 🧠 Version 3 — Real-Time System Monitor
 
-![V3 Output](assets/v3.png)
+![V3 Output](images/v3.webm)
 
 ### ⚙️ Features
 
