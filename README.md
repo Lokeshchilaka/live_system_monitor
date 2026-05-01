@@ -105,7 +105,7 @@ Cached: 2488812 kB
 
 # ⚙️ Version 2 — System Usage Calculation
 
-[V2 Output](images/v2.webm)
+[V2 Output](images/v2.gif)
 
 ### ⚙️ Features
 
@@ -162,7 +162,7 @@ Memory: 41.78%
 
 # 🧠 Version 3 — Real-Time System Monitor
 
-[V3 Output](images/v3.webm)
+[V3 Output](images/v3.gif)
 
 ### ⚙️ Features
 
