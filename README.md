@@ -1,4 +1,3 @@
-````markdown
 # 🚀 System Resource Monitor (Project 2)
 
 ![System Monitor](assets/project2.png)
@@ -66,13 +65,13 @@ Linux Kernel (/proc)
 cpu 232363 505 39573 6541623 5753 0 723 0 0 0
 ```
 
-- user → user processes  
-- nice → low priority processes  
-- system → kernel processes  
-- idle → idle CPU time  
-- iowait → waiting for I/O  
-- irq → hardware interrupts  
-- softirq → software interrupts  
+- 👤 user → user processes  
+- 🐢 nice → low priority processes  
+- 🧩 system → kernel processes  
+- 💤 idle → idle CPU time  
+- 💽 iowait → waiting for I/O  
+- ⚡ irq → hardware interrupts  
+- 🔁 softirq → software interrupts  
 
 👉 Values are **cumulative since boot**
 
@@ -88,11 +87,11 @@ Buffers: 123536 kB
 Cached: 2488812 kB
 ```
 
-- MemTotal → total RAM  
-- MemFree → unused RAM  
-- MemAvailable → actual usable RAM  
-- Buffers → disk buffer  
-- Cached → reusable memory  
+- 📦 MemTotal → total RAM  
+- 🆓 MemFree → unused RAM  
+- 📊 MemAvailable → actual usable RAM  
+- 💾 Buffers → disk buffer  
+- ⚡ Cached → reusable memory  
 
 ---
 
@@ -124,9 +123,8 @@ Cached: 2488812 kB
 CPU % = 100 × (1 - idle_delta / total_delta)
 ```
 
-Where:
-- idle_delta → change in idle time  
-- total_delta → change in total CPU time  
+- ⏱️ idle_delta → change in idle time  
+- 🔢 total_delta → change in total CPU time  
 
 ---
 
@@ -150,8 +148,8 @@ Memory: 41.78%
 
 ### 🚀 Improvements
 
-- Real system interpretation  
-- Percentage-based output  
+- 📊 Real system interpretation  
+- ⚙️ Percentage-based output  
 
 ---
 
@@ -203,9 +201,9 @@ while True:
 
 ### 🚀 Improvements
 
-- Real-time behavior  
-- Clean UI  
-- Continuous updates  
+- 🔄 Real-time behavior  
+- 🧼 Clean UI  
+- 📈 Continuous updates  
 
 ---
 
@@ -243,7 +241,7 @@ python3 monitorV3.py
 
 ---
 
-# Final Note
+# 📌 Final Note
 
 This project demonstrates a **progressive evolution from raw kernel data to a real-time monitoring system**, similar to real-world system tools.
 
@@ -252,4 +250,3 @@ This project demonstrates a **progressive evolution from raw kernel data to a re
 ## 👨‍💻 Author
 
 **Lokesh Jaya Rao**
-````
