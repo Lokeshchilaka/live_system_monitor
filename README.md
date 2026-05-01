@@ -165,6 +165,7 @@ Memory: 41.78%
 
 [v3.webm](https://github.com/user-attachments/assets/26d20f59-71e4-449c-886d-990bd5158c6d)
 
+As we can see, the system continuously updates live monitoring with data from the kernel at user-defined time intervals.
 
 ### ⚙️ Features
 
