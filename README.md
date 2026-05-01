@@ -223,13 +223,13 @@ while True:
 
 ```
 python3 monitorV1.py
-👉 [View Code](files/monitorV1.py)
+👉 [View Code](./files/monitorV1.py)
 
 python3 monitorV2.py
-👉 [View Code](files/monitorV2.py)
+👉 [View Code](./files/monitorV2.py)
 
 python3 monitorV3.py
-👉 [View Code](files/monitorV3.py)
+👉 [View Code](./files/monitorV3.py)
 ```
 
 ---
